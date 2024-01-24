@@ -1,0 +1,741 @@
+{
+  "users": [
+    {
+      "id": "625b",
+      "username": "test2",
+      "email": "test@gmail.com",
+      "password": "$2a$05$p8JmRxD8KSD9E4pqV8KQ7uPBxJ0CLV5Gs7xQGa.fmIjIPyp7BHM2."
+    },
+    {
+      "id": "c2d3",
+      "username": "wwww",
+      "email": "sssssssssss@gmail.com",
+      "password": "qwertyu",
+      "dob": "2024-01-22"
+    }
+  ],
+  "Recipes": [
+    {
+      "id": "1",
+      "category": "veg",
+      "name": "Grilled Eggplant and Tomato Stacks",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eatingwell.com%2Frecipe%2F252480%2Fgrilled-eggplant-tomato-stacks%2F&psig=AOvVaw0syi2bhMBaDKvdmfUzdJu0&ust=1706138675078000&source=images&cd=vfe&ved=0CBMQjRxqFwoTCKi8wNLU9IMDFQAAAAAdAAAAABAE",
+      "ingredients": "Eggplant Slices, Tomato slice, Balsamic glaze,",
+      "instructions": "Preheat the grill to medium-high heat, Brush both sides of eggplant slices with olive oil, Grill eggplant slices for about 3-4 minutes per side until they have grill marks and are tender, Assemble stacks by placing a grilled eggplant slice, followed by a tomato slice, and repeat, Spoon a dollop of dairy-free pesto on each stack, Drizzle with balsamic glaze just before serving."
+    },
+    {
+      "id": "2",
+      "category": "veg",
+      "name": "Quinoa and Vegetable Stuffed Peppers",
+      "image": "https://www.shutterstock.com/shutterstock/photos/394395796/display_1500/stock-photo-peppers-stuffed-with-quinoa-and-walnuts-vegetarian-dish-394395796.jpg",
+      "ingredients": [
+        "Quinoa",
+        "Bell peppers",
+        "Zucchini, diced",
+        "Corn kernels",
+        "Tomatoes, diced",
+        "Olive oil",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Cook quinoa according to package instructions.",
+        "Preheat the oven to 375°F (190°C).",
+        "Sauté diced zucchini and corn in olive oil until softened.",
+        "In a bowl, combine cooked quinoa, sautéed vegetables, and diced tomatoes. Season with salt and pepper.",
+        "Cut bell peppers in half, remove seeds, and stuff with the quinoa-vegetable mixture.",
+        "Place stuffed peppers in a baking dish and bake for about 25-30 minutes or until peppers are tender"
+      ]
+    },
+    {
+      "id": "3",
+      "category": "veg",
+      "name": "Chickpea and Vegetable Curry",
+      "image": "https://www.shutterstock.com/shutterstock/photos/1901762482/display_1500/stock-photo-vegan-chickpea-curry-with-rice-and-cilantro-in-a-white-bowl-white-marble-background-indian-1901762482.jpg",
+      "ingredients": [
+        "Chickpeas",
+        "Spinach",
+        "Carrots",
+        "sliced",
+        "Tomatoes",
+        "chopped",
+        "Coconut milk",
+        "Curry spices (turmeric, cumin, coriander,olive oil)"
+      ],
+      "instructions": "step 1...."
+    },
+    {
+      "id": "4",
+      "category": "veg",
+      "name": "Gluten-Free Stir-Fried Rice",
+      "image": "https://img.freepik.com/free-photo/side-view-rice-garnish-with-grilled-chicken-cucumber-carrot-bell-pepper-spring-onion_141793-5070.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Gluten-free tamari or coconut aminos",
+        "Mixed vegetables (carrots, peas, corn, broccoli)",
+        "Cooked rice",
+        "Tofu or protein of choice",
+        "Sesame oil"
+      ],
+      "instructions": [
+        "Heat sesame oil in a wok or large skillet over medium-high heat.",
+        "Add tofu or protein and stir-fry until browned.",
+        " Add mixed vegetables and continue to stir-fry until tender.",
+        "Add cooked rice and gluten-free tamari or coconut aminos. Stir until well combined and heated through."
+      ]
+    },
+    {
+      "id": "5",
+      "category": "veg",
+      "name": "Spaghetti Squash Primavera",
+      "image": "https://img.freepik.com/free-photo/pumpkin-alfredo-fettucine-pasta-ceramic-plate-with-fresh-raw-butternut-squash-slices-autumn-meal-lunch-butternut-squash-recipe_114579-1647.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Spaghetti squash",
+        "Gluten-free vegetable broth",
+        "Mixed vegetables (zucchini, bell peppers, cherry tomatoes)",
+        "Tomato sauce",
+        " Olive oil",
+        "Salt and peppe"
+      ],
+      "instructions": [
+        "Preheat the oven to 400°F (200°C).",
+        "Cut the spaghetti squash in half lengthwise, remove seeds, and place cut side down on a baking sheet.",
+        "Roast for about 40-45 minutes or until the squash is easily pierced with a fork.",
+        "Meanwhile, sauté mixed vegetables in olive oil until crisp-tender.",
+        "Scrape the spaghetti squash with a fork to create strands.",
+        "Combine spaghetti squash, sautéed vegetables, lactose-free tomato sauce, and season with salt and pepper."
+      ]
+    },
+    {
+      "id": "6",
+      "category": "veg",
+      "name": "Cauliflower Pizza Crust with Veggie Toppings",
+      "image": "https://img.freepik.com/free-photo/top-view-pizza-caesar_140725-12441.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "- Cauliflower",
+        "Gluten-free flour",
+        "Dairy-free cheese",
+        "Tomato sauce (lactose-free)",
+        "Vegetables of choice (bell peppers, mushrooms, olives)",
+        "Olive oil",
+        "Italian herbs"
+      ],
+      "instructions": [
+        "Preheat the oven to 425°F (220°C).",
+        "Rice cauliflower and microwave or steam until tender. Allow it to cool.",
+        "Mix cauliflower with gluten-free flour to form a dough.",
+        "Press the dough onto a parchment-lined baking sheet to create a pizza crust.",
+        "Bake for about 15-20 minutes or until the crust is golden.",
+        "Top with lactose-free tomato sauce, dairy-free cheese, and your choice of veggies.",
+        "Return to the oven until the cheese is melted and bubbly"
+      ]
+    },
+    {
+      "id": "7",
+      "category": "veg",
+      "name": "Zucchini Noodles with Avocado Pesto",
+      "image": "https://img.freepik.com/free-photo/high-view-healthy-green-salad-wooden-background_23-2148440326.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "- Zucchini",
+        "Avocado",
+        "Basil leaves",
+        "Garlic",
+        "Pine nuts",
+        "Olive oil",
+        "Lemon juice",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Spiralize zucchini into noodles and set aside.",
+        "In a blender or food processor, combine avocado, basil, garlic, pine nuts, olive oil, lemon juice, salt, and pepper. Blend until smooth.",
+        "Toss the zucchini noodles with the avocado pesto until well coated"
+      ]
+    },
+    {
+      "id": "8",
+      "category": "veg",
+      "name": "Sweet Potato and Lentil Soup",
+      "image": "https://img.freepik.com/free-photo/high-angle-assortment-with-pumpkin-soup-bowl_23-2148325641.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        " - Sweet potatoes",
+        "Lentils",
+        "Carrots",
+        "Spinach",
+        "Gluten-free vegetable broth",
+        "Garlic",
+        "Olive oil",
+        "Cumin, coriander, salt, and pepper"
+      ],
+      "instructions": [
+        "Heat olive oil in a large pot over medium heat. Add chopped garlic and sauté until fragrant.",
+        "Add sweet potatoes, lentils, chopped carrots, and spices. Cook for a few minutes.",
+        "Pour in gluten-free vegetable broth and bring to a boil. Reduce heat and simmer until lentils are tender.",
+        "Stir in spinach and let it wilt before serving"
+      ]
+    },
+    {
+      "id": "9",
+      "category": "veg",
+      "name": "Stuffed Portobello Mushrooms",
+      "image": "https://img.freepik.com/free-photo/homemade-baked-stuffed-champignon-mushrooms-with-fresh-dill-cheese_114579-8509.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "- Portobello mushrooms, cleaned and stems removed",
+        "Olive oil",
+        "Spinach, chopped",
+        "Garlic, minced",
+        "Cream cheese (ensure it's gluten-free)",
+        "Parmesan cheese, grated",
+        "Gluten-free breadcrumbs",
+        "Salt and pepper to taste",
+        "Fresh herbs (e.g., parsley or thyme), chopped for garnish"
+      ],
+      "instructions": [
+        "Preheat the oven to 375°F (190°C).",
+        "Brush the cleaned portobello mushrooms with olive oil and place them on a baking sheet, gill side up.",
+        "In a pan, sauté chopped spinach and minced garlic in olive oil until the spinach is wilted.",
+        "In a bowl, mix together sautéed spinach and garlic with cream cheese, grated Parmesan, and gluten-free breadcrumbs. Season with salt and pepper.",
+        "Spoon the stuffing mixture into the gill side of each portobello mushroom.",
+        "Bake in the preheated oven for about 20-25 minutes or until the mushrooms are tender.",
+        "Garnish with fresh herbs before serving"
+      ]
+    },
+    {
+      "id": "10",
+      "category": "veg",
+      "name": "Gluten-Free Tacos",
+      "image": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14218.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Corn tortillas (gluten-free)",
+        "Ground meat (beef, turkey, or plant-based alternative)",
+        "Taco seasoning (gluten-free)",
+        "Shredded lettuce",
+        "Diced tomatoes",
+        "Shredded cheese (ensure it's gluten-free)",
+        "Salsa",
+        "Avocado slices"
+      ],
+      "instructions": [
+        "Cook the ground meat in a pan over medium heat, seasoning it with gluten-free taco seasoning according to package instructions.",
+        "Warm the gluten-free corn tortillas in a dry skillet or microwave.",
+        "Assemble tacos by placing a spoonful of seasoned meat onto each tortilla.",
+        "Top with shredded lettuce, diced tomatoes, shredded cheese, salsa, and avocado slices."
+      ]
+    },
+    {
+      "id": "11",
+      "category": "veg",
+      "name": "Cabbage Wraps with Tofu and Vegetables",
+      "image": "https://img.freepik.com/free-photo/front-view-lavash-sandwich-rolls-sliced-with-salad-meat-inside-along-with-salad-along-with-vegetables-wood_140725-20742.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Green cabbage leaves",
+        "Firm tofu, pressed and cubed",
+        "Assorted vegetables (bell peppers, carrots, zucchini, etc.), thinly sliced",
+        "Gluten-free soy sauce",
+        "Garlic powder",
+        "Sesame oil",
+        "Green onions, chopped",
+        "Sesame seeds for garnish"
+      ],
+      "instructions": [
+        "Blanche the cabbage leaves in boiling water for a few seconds, then immerse them in ice water to stop cooking. Pat dry and set aside.",
+        "In a pan, sauté cubed tofu, sliced vegetables, and chopped green onions with gluten-free soy sauce, garlic powder, and a drizzle of sesame oil until vegetables are tender.",
+        "Spoon the tofu and vegetable mixture onto each cabbage leaf.",
+        "Roll the cabbage leaves to form wraps, securing with toothpicks if needed.",
+        "Garnish with sesame seeds before serving"
+      ]
+    },
+    {
+      "id": "12",
+      "category": "veg",
+      "name": "Lemon Garlic Roasted Brussels Sprouts",
+      "image": "https://img.freepik.com/free-photo/healthy-organic-tofu-rice-buddha-bowl-with-veggies_1150-42351.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Brussels sprouts, trimmed and halved",
+        "Olive oil",
+        "Lemon juice",
+        "Garlic cloves, minced",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Preheat the oven to 400°F (200°C).",
+        "Toss halved Brussels sprouts with olive oil, lemon juice, minced garlic, salt, and pepper in a bowl.",
+        "Spread the Brussels sprouts on a baking sheet in a single layer.",
+        "Roast in the preheated oven for about 20-25 minutes or until the Brussels sprouts are golden brown and crispy at the edges.",
+        "Remove from the oven and serve immediately. Adjust seasoning if necessary"
+      ]
+    },
+    {
+      "id": "13",
+      "category": "non-veg",
+      "name": "Grilled Lemon Herb Chicken",
+      "image": "https://img.freepik.com/free-photo/top-view-christmas-dinner_23-2147716303.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Chicken breasts",
+        "Olive oil",
+        "Lemon juice",
+        "Garlic, minced",
+        "Fresh herbs (rosemary, thyme, or oregano), chopped",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Mix olive oil, lemon juice, minced garlic, chopped herbs, salt, and pepper to create a marinade.",
+        "Marinate chicken breasts in the mixture for at least 30 minutes.",
+        "Grill the chicken until fully cooked, approximately 6-8 minutes per side"
+      ]
+    },
+    {
+      "id": "14",
+      "category": "non-veg",
+      "name": "Baked Lemon Dijon Chicken Thighs",
+      "image": "https://img.freepik.com/free-photo/side-view-chicken-chicken-with-herbs-lavash-bottle-oil-garlic_140725-73799.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Chicken thighs",
+        "Olive oil",
+        "Lemon juice",
+        "Dijon mustard",
+        "Garlic, minced",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Preheat the oven to 375°F (190°C).",
+        "Mix olive oil, lemon juice, Dijon mustard, minced garlic, salt, and pepper for the marinade.",
+        "Coat chicken thighs with the marinade and bake for about 30-35 minutes or until cooked through"
+      ]
+    },
+    {
+      "id": "15",
+      "category": "non-veg",
+      "name": "Coconut Lime Chicken",
+      "image": "https://img.freepik.com/free-photo/fried-egg-with-vegetables-plate_1220-5286.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Chicken thighs",
+        "Coconut milk",
+        "Lime juice",
+        "Garlic, minced",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Mix coconut milk, lime juice, minced garlic, salt, and pepper to create a marinade.",
+        "Marinate chicken thighs for at least 30 minutes.",
+        "Grill or bake the chicken until fully cooked"
+      ]
+    },
+    {
+      "id": "16",
+      "category": "non-veg",
+      "name": "Lemon Garlic baked Cod",
+      "image": "https://img.freepik.com/premium-photo/high-angle-view-meal-served-table_1048944-2637518.jpg?size=338&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Cod fillets",
+        "Olive oil",
+        "Lemon juice",
+        "Garlic, minced",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Preheat the oven to 375°F (190°C).",
+        " Mix olive oil, lemon juice, minced garlic, chopped parsley, salt, and pepper for the marinade.",
+        "Coat cod fillets with the marinade and bake for about 15-20 minutes or until flaky"
+      ]
+    },
+    {
+      "id": "17",
+      "category": "non-veg",
+      "name": "Salmon and Quinoa Patties",
+      "image": "https://img.freepik.com/free-photo/fast-food_1398-4807.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Canned salmon, drained",
+        "Cooked quinoa",
+        "Green onions, chopped",
+        "Gluten-free breadcrumbs",
+        "Dijon mustard",
+        "Egg",
+        "Salt and pepper to taste",
+        "Olive oil for frying"
+      ],
+      "instructions": [
+        "In a bowl, combine canned salmon, cooked quinoa, green onions, gluten-free breadcrumbs, Dijon mustard, beaten egg, salt, and pepper.",
+        "Form mixture into patties and fry in olive oil until golden brown on each side."
+      ]
+    },
+    {
+      "id": "18",
+      "category": "non-veg",
+      "name": "Egg Fried Rice with Vegetables",
+      "image": "https://img.freepik.com/free-photo/vertical-view-healthy-vegetable-salad-different-spices-bunch-green-white-table_140725-92061.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Cooked rice (preferably cold)",
+        "Eggs, beaten",
+        "Mixed vegetables (peas, carrots, corn)",
+        "Gluten-free soy sauce",
+        "Garlic, minced",
+        "Olive oil"
+      ],
+      "instructions": [
+        "In a pan, sauté minced garlic in olive oil.",
+        "Add mixed vegetables and stir-fry until tender.",
+        "Push vegetables to the side, pour beaten eggs into the pan, scramble, and mix with vegetables.",
+        "Add cooked rice and gluten-free soy sauce, stir until well combined."
+      ]
+    },
+    {
+      "id": "19",
+      "category": "non-veg",
+      "name": "Shrimp and Avocado Salad",
+      "image": "https://img.freepik.com/free-photo/top-close-view-healthy-diet-salad-with-fried-shrimp-avocado-lettuce-red-onion-berries_141793-2422.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Shrimp, peeled and deveined",
+        "Mixed greens",
+        "Avocado, sliced",
+        "Cherry tomatoes, halved",
+        "Olive oil",
+        "Lemon juice",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Season shrimp with salt and pepper, then sauté until fully cooked.",
+        "In a bowl, combine mixed greens, sliced avocado, cherry tomatoes, and cooked shrimp.",
+        "Drizzle with olive oil and lemon juice, toss gently."
+      ]
+    },
+    {
+      "id": "20",
+      "category": "non-veg",
+      "name": "Grilled Lamb Kebabs",
+      "image": "https://img.freepik.com/free-photo/lamb-kebab-skewers-garnished-with-pomegranate-herbs_140725-1977.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Lamb chunks",
+        "Olive oil",
+        "Lemon juice",
+        "Garlic, minced",
+        "Fresh rosemary, chopped",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Mix olive oil, lemon juice, minced garlic, chopped rosemary, salt, and pepper to create a marinade.",
+        "Marinate lamb chunks for at least 30 minutes.",
+        "Skewer the marinated lamb and grill until desired doneness."
+      ]
+    },
+    {
+      "id": "21",
+      "category": "non-veg",
+      "name": "Herb-Crusted Baked Chicken Drumsticks",
+      "image": "https://img.freepik.com/free-photo/top-view-chicken-sauce-chicken-with-herbs-onion-lavash-cutting-board_140725-73705.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Chicken drumsticks",
+        "Olive oil",
+        "Dijon mustard",
+        "Gluten-free breadcrumbs",
+        "Fresh herbs (thyme, rosemary, or parsley), chopped",
+        "Garlic powder",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Preheat the oven to 400°F (200°C).",
+        "Mix olive oil, Dijon mustard, gluten-free breadcrumbs, chopped herbs, garlic powder, salt, and pepper.",
+        "Coat chicken drumsticks with the mixture and bake for about 30-35 minutes or until crispy"
+      ]
+    },
+    {
+      "id": "22",
+      "category": "non-veg",
+      "name": "Lemon Garlic Roasted Lamb Chops",
+      "image": "https://img.freepik.com/free-photo/lamb-chomps-wooden-board-with-lemon-slices-cutlery-tablecloth_114579-15668.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Lamb chops",
+        "Olive oil",
+        "Lemon juice",
+        "Garlic, minced",
+        "Dried oregano",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Preheat the oven to 400°F (200°C).",
+        "Mix olive oil, lemon juice, minced garlic, dried oregano, salt, and pepper for the marinade.",
+        "Coat lamb chops with the marinade and roast for about 20-25 minutes or until desired doneness"
+      ]
+    },
+    {
+      "id": "23",
+      "category": "non-veg",
+      "name": "Spicy Backed Fish Tacos",
+      "image": "https://img.freepik.com/free-photo/tasty-mexican-food_23-2148140284.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "White fish fillets",
+        "Olive oil",
+        "Paprika",
+        "Cumin",
+        "Chili powder",
+        "Garlic powder",
+        "Gluten-free corn tortillas",
+        "Cabbage slaw (cabbage, lime juice, cilantro)",
+        "Avocado slices"
+      ],
+      "instructions": [
+        "Preheat the oven to 375°F (190°C).",
+        "Mix olive oil, paprika, cumin, chili powder, and garlic powder.",
+        "Coat fish fillets with the spice mixture and bake until flaky.",
+        "Serve in gluten-free corn tortillas with cabbage slaw and avocado slices."
+      ]
+    },
+    {
+      "id": "24",
+      "category": "non-veg",
+      "name": "Deviled Eggs with Smoked Salmon",
+      "image": "https://img.freepik.com/free-photo/tasty-mussel-shells-with-herbs_23-2148375637.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Hard-boiled eggs, halved",
+        "Dairy-free mayo",
+        "Dijon mustard",
+        "Lemon juice",
+        "Salt and pepper to taste",
+        "Smoked salmon, cut into small pieces",
+        "Fresh dill for garnish"
+      ],
+      "instructions": [
+        "Scoop out egg yolks and mix with dairy-free mayo, Dijon mustard, lemon juice, salt, and pepper.",
+        "Spoon or pipe the mixture back into egg white halves.",
+        "Top with smoked salmon and garnish with fresh dill."
+      ]
+    },
+    {
+      "id": "25",
+      "category": "vegan",
+      "name": "Chickpea Salad Sandwich",
+      "image": "https://img.freepik.com/free-photo/delicious-white-tuna-recipe-still-life_23-2151143274.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "1 can chickpeas, drained and mashed",
+        "1/2 cup diced celery",
+        "1/4 cup diced red onion",
+        "1/4 cup vegan mayo",
+        "1 tablespoon mustard",
+        "Salt and pepper to taste",
+        "Gluten-free bread"
+      ],
+      "instructions": [
+        "In a bowl, combine mashed chickpeas, diced celery, diced red onion, vegan mayo, and mustard.",
+        "Season with salt and pepper.",
+        "Spread the chickpea salad on gluten-free bread to make sandwiches."
+      ]
+    },
+    {
+      "id": "26",
+      "category": "vegan",
+      "name": "Spaghetti Aglio e Olio with Roasted Vegetables",
+      "image": "https://img.freepik.com/free-photo/stir-fried-spaghetti-seafood_1339-6419.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Gluten-free spaghetti",
+        "1/4 cup olive oil",
+        "4 cloves garlic, minced",
+        "Red pepper flakes (optional)",
+        "Roasted vegetables (zucchini, cherry tomatoes, bell peppers)",
+        "Salt and pepper to taste",
+        "Fresh parsley for garnish"
+      ],
+      "instructions": [
+        "Cook gluten-free spaghetti according to package instructions.",
+        "In a pan, sauté minced garlic in olive oil until golden. Add red pepper flakes if desired.",
+        "Toss the cooked spaghetti with the garlic oil and top with roasted vegetables.",
+        "Season with salt and pepper, garnish with fresh parsley"
+      ]
+    },
+    {
+      "id": "27",
+      "category": "vegan",
+      "name": "Sweet Potato and Black Bean Tacos",
+      "image": "https://img.freepik.com/free-photo/tacos-with-meat-vegetables-parsley_23-2148750426.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Corn tortillas",
+        "Mashed sweet potatoes",
+        "Black beans, cooked",
+        "Salsa",
+        "Avocado slices",
+        "Fresh cilantro for garnish"
+      ],
+      "instructions": [
+        "Warm corn tortillas.",
+        "Spread mashed sweet potatoes on each tortilla.",
+        "Top with black beans, salsa, and avocado slices.",
+        "Garnish with fresh cilantro"
+      ]
+    },
+    {
+      "id": "28",
+      "category": "vegan",
+      "name": "Vegan Stir-Fried Tofu with Broccoli",
+      "image": "https://img.freepik.com/free-photo/vertical-view-healthy-vegetable-salad-different-spices-bunch-green-white-table_140725-92061.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Firm tofu, pressed and cubed",
+        "Broccoli florets",
+        "3 tablespoons soy sauce",
+        "1 tablespoon maple syrup",
+        "1 tablespoon sesame oil",
+        "1 teaspoon ginger, minced",
+        "2 cloves garlic, minced",
+        "Sesame seeds for garnish",
+        "Cooked rice for serving"
+      ],
+      "instructions": [
+        "In a pan, sauté cubed tofu until golden.",
+        "Add broccoli and cook until tender-crisp.",
+        "In a bowl, mix soy sauce, maple syrup, sesame oil, ginger, and garlic. Pour over tofu and broccoli.",
+        "Stir until well coated and serve over cooked rice. Garnish with sesame seeds."
+      ]
+    },
+    {
+      "id": "29",
+      "category": "vegan",
+      "name": "Quinoa Avocado Salad",
+      "image": "https://img.freepik.com/free-photo/salads-with-quinoa-arugula-radish-tomatoes-cucumber-bowl-wooden-table-healthy-food-diet-detox-vegetarian-concept_2829-6842.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "1 cup quinoa, cooked",
+        "1 avocado, diced",
+        "1 cup cherry tomatoes, halved",
+        "1/2 cucumber, diced",
+        "Fresh cilantro, chopped",
+        "Juice of 1 lemon",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "- In a bowl, combine cooked quinoa, diced avocado, halved cherry tomatoes, diced cucumber, and chopped cilantro.",
+        "- Squeeze lemon juice over the salad and toss until well combined.",
+        "- Season with salt and pepper."
+      ]
+    },
+    {
+      "id": "30",
+      "category": "vegan",
+      "name": "Tomato Basil Lentil Soup",
+      "image": "https://img.freepik.com/free-photo/horizontal-view-tomato-soup-brown-cutting-board-right-side-mixed-color-table_140725-86827.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "1 cup dried green or brown lentils, rinsed",
+        "1 can diced tomatoes",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "4 cups vegetable broth",
+        "1 teaspoon dried basil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "- In a pot, sauté chopped onion and minced garlic until softened.",
+        "- Add rinsed lentils, diced tomatoes, vegetable broth, dried basil, salt, and pepper.",
+        "- Simmer until lentils are tender."
+      ]
+    },
+    {
+      "id": "31",
+      "category": "vegan",
+      "name": "Vegan Mediterranean Bowl",
+      "image": "https://img.freepik.com/free-photo/side-view-stewed-meat-vegetables_141793-1397.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Cooked brown rice or quinoa",
+        "Hummus",
+        "Cherry tomatoes, halved",
+        "Cucumber, sliced",
+        "Olives (black or Kalamata)",
+        "Drizzle of olive oil",
+        "Fresh parsley for garnish"
+      ],
+      "instructions": [
+        "Arrange cooked brown rice or quinoa in a bowl.",
+        "Add dollops of hummus, halved cherry tomatoes, sliced cucumber, and olives.",
+        "Drizzle with olive oil and garnish with fresh parsley"
+      ]
+    },
+    {
+      "id": "32",
+      "category": "vegan",
+      "name": "Vegan Buddha Bowl",
+      "image": "https://img.freepik.com/free-photo/pokea-bowl-with-fresh-salmon-rice-chuka-salad-edamame-beans-carrots-red-cabbage-healthy-food-bowl-pink-background-vertical_127032-2525.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Roasted sweet potatoes",
+        "Cooked quinoa",
+        "Steamed kale",
+        "Avocado slices",
+        "Tahini dressing",
+        "Pumpkin seeds (optional)",
+        "Fresh herbs for garnish"
+      ],
+      "instructions": [
+        "Assemble a bowl with roasted sweet potatoes, cooked quinoa, steamed kale, and avocado slices.",
+        "Drizzle with tahini dressing and garnish with pumpkin seeds and fresh herbs if desired."
+      ]
+    },
+    {
+      "id": "33",
+      "category": "vegan",
+      "name": "Lentil and Vegetable Stir-Fry",
+      "image": "https://img.freepik.com/free-photo/vegetable-ratatouille-frying-pan-wooden-table_2829-19906.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Cooked green or brown lentils",
+        "Mixed vegetables (bell peppers, broccoli, carrots)",
+        "3 tablespoons gluten-free tamari or soy sauce",
+        "1 tablespoon minced ginger",
+        "2 cloves garlic, minced",
+        "1 tablespoon sesame oil"
+      ],
+      "instructions": [
+        "In a wok or pan, stir-fry mixed vegetables, cooked lentils, minced ginger, and minced garlic in sesame oil.",
+        "Add gluten-free tamari or soy sauce and stir until well combined."
+      ]
+    },
+    {
+      "id": "34",
+      "category": "vegan",
+      "name": "Vegan Cauliflower Alfredo Pasta",
+      "image": "https://img.freepik.com/free-photo/delicious-farfalle-pasta-with-parsley-fork-white-plate_114579-32328.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Cauliflower florets",
+        "Gluten-free pasta",
+        "3 cloves garlic, minced",
+        "1/4 cup nutritional yeast",
+        "1 cup unsweetened almond milk",
+        "1 tablespoon lemon juice",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Steam cauliflower until tender.",
+        "Blend cauliflower with minced garlic, nutritional yeast, almond milk, lemon juice, salt, and pepper until smooth.",
+        "Toss the cauliflower Alfredo sauce with cooked gluten-free pasta"
+      ]
+    },
+    {
+      "id": "35",
+      "category": "vegan",
+      "name": "Chickpea and Spinach Coconut Curry",
+      "image": "https://img.freepik.com/free-photo/delicious-pakistani-dish-high-angle_23-2148825127.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Chickpeas, canned",
+        "Coconut milk",
+        "Fresh spinach",
+        "1 tablespoon curry powder",
+        "1 teaspoon turmeric",
+        "2 cloves garlic, minced",
+        "1 onion, chopped",
+        "1 cup vegetable broth"
+      ],
+      "instructions": [
+        "Sauté chopped onion and minced garlic.",
+        "Add chickpeas, coconut milk, curry powder, turmeric, vegetable broth, and fresh spinach.",
+        "Simmer until spinach is wilted."
+      ]
+    },
+    {
+      "id": "36",
+      "category": "vegan",
+      "name": "Roasted Vegetable Quinoa Bowl",
+      "image": "https://img.freepik.com/free-photo/quinoa-with-vegetables-cooked-lunch-dinner-served-bowl-closeup_1220-5345.jpg?size=626&ext=jpg&ga=GA1.1.519947697.1706053238&semt=ais",
+      "ingredients": [
+        "Quinoa, cooked",
+        "Roasted vegetables (sweet potatoes, Brussels sprouts, bell peppers)",
+        "Avocado slices",
+        "Tahini dressing",
+        "Pumpkin seeds (optional)",
+        "Fresh herbs for garnish"
+      ],
+      "instructions": [
+        "Assemble a bowl with cooked quinoa, roasted vegetables, and avocado slices.",
+        "Drizzle with tahini dressing and garnish with pumpkin seeds and fresh herbs if desired"
+      ]
+    }
+  ]
+}
